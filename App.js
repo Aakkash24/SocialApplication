@@ -21,12 +21,7 @@ const AppStack = createStackNavigator();
 const AppTab = createBottomTabNavigator();
 
 var firebaseConfig = {
-  apiKey: "AIzaSyDq89xqcvWh-tcr115gt7O35XHia_MZjS0",
-  authDomain: "socialapplication-10a5c.firebaseapp.com",
-  projectId: "socialapplication-10a5c",
-  storageBucket: "socialapplication-10a5c.appspot.com",
-  messagingSenderId: "901578680890",
-  appId: "1:901578680890:web:452fae6a7b3c0622c1e303",
+  // Your API Key
 };
 
 // Initialize Firebase
